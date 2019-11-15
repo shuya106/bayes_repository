@@ -5,7 +5,7 @@ pyMC3を用いてベイズ推定を試みる。<br>
 
 ■とあるライブのチケットの取得確率を分布で算出<br>
 事前分布として事前情報を用いた場合<br>
-![ticket_beta](https://user-images.githubusercontent.com/50583880/68908365-620d2300-078e-11ea-9412-694b36188e7c.png)
+![ticket_beta](https://user-images.githubusercontent.com/50583880/68908365-620d2300-078e-11ea-9412-694b36188e7c.png)<br>
 事前分布として一様分布を用いた場合<br>
 ![ticket_uniform](https://user-images.githubusercontent.com/50583880/68908475-c4662380-078e-11ea-80a6-4e69c2f49c50.png)
 
